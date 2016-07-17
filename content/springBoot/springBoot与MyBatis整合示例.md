@@ -1,5 +1,7 @@
 Date: 2016-06-11 16:02
-Title:   springBoot与MyBatis整合示例
+Title:springBoot与MyBatis整合示例
+Category: springBoot
+Tags: springBoot
 springBoot与MyBatis整合示例
 ====
 ###MyBatis的配置的一般步骤：

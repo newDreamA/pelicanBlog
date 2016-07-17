@@ -1,5 +1,7 @@
 Date:7/12/2016 2:50:40 PM 
 Title:Mysql常见一些操作语句
+Category: mysql
+Tags: mysql
 ##Mysql常见一些操作语句
 #####1. 创建数据库的：
 CREATE DATABASE IF NOT EXISTS auth DEFAULT CHARSET utf8 COLLATE utf8\_general_ci;
